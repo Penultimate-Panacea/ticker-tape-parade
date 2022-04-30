@@ -1,8 +1,3 @@
-import requests
-import json
-
-response = requests.get("https://lldev.thespacedevs.com/2.2.0/launch?mode=list")
-print(response.json())
 
 
 
